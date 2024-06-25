@@ -1,0 +1,11 @@
+doctype html
+html
+  head
+    title User Details
+    link(rel='stylesheet' type="text/css" href='/css/style.css')
+    link(rel="icon" href="/favicon.ico")
+  body
+    h1 User Details
+    p ID: #{user.id}
+    p Name: #{user.userName}
+    a(href='/users') Back to Users List

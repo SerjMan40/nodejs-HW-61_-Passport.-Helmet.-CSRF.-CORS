@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "userName": "John Doe",
+    "password": "12345"
+  },
+  {
+    "id": 2,
+    "userName": "Jane Smith",
+    "password": "22345"
+  },
+  {
+    "id": 3,
+    "userName": "Bob Johnson",
+    "password": "32345"
+  },
+  {
+    "id": 4,
+    "userName": "Mirra",
+    "userEmail": "Manuylov_serj@ukr.net",
+    "password": "$2b$10$qOancS2ede3Ny6IUaaaTje7v1FHuALWYlZnacg2TDRRtZ20PcLx2S"
+  }
+]
